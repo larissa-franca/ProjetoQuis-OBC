@@ -10,9 +10,9 @@
     "server": "json-server --watch database.json"
   },
   "devDependencies": {
-    "vite": "^5.0.8"
+    "vite": "^4.4.5"
   },
   "dependencies": {
-    "json-server": "^1.0.0-alpha.21"
+    "json-server": "^0.17.4"
   }
 }
